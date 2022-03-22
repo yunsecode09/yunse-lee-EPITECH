@@ -3,7 +3,7 @@
 - 💻 I like to draw, play video-games and learn new stuff<br/>
 - 📫 How to reach me: yunse1.lee@epitech.eu<br/>
 - 🎮 Fun fact: I participated in the GGJ 2022<br/>
-- 💻 Website <a src"https://profile.yunse.dev/">my profile<a/>:
+- 💻 Website <a src="https://profile.yunse.dev/">my profile<a/>:
 <p align="left">
 </p>
 
