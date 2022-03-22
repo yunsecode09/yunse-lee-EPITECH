@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUNSE</h1>
-- 😎 I’m 19 years old<br/>
-- 📗 I’m currently learning at Epitech Paris | First year<br/>
+- 📗 I’m currently learning at Epitech Paris<br/>
 - 💻 I like to draw, play video-games and learn new stuff<br/>
 - 📫 How to reach me: yunse1.lee@epitech.eu<br/>
 - 🎮 Fun fact: I participated in the GGJ 2022<br/>
