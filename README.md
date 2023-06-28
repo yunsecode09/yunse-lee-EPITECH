@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunse%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome20To%20My%20Github%20Page&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunse%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20Github%20Page&descAlignY=51&descAlign=62)
 
 <a href="https://www.epitech.eu">
   <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
