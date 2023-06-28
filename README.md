@@ -1,6 +1,9 @@
 <a href="https://www.epitech.eu">
   <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
 </a>
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=yunse-lee-EPITECH&label=Profile%20views&color=0e75b6&style=flat" alt="Yunse LEE" />
+</p>
 <h1 align="center">Hi 👋, I'm YUNSE</h1>
 - 📗 I’m currently learning at Epitech Paris<br/>
 - 💻 I like to draw, play video-games and learn new stuff<br/>
