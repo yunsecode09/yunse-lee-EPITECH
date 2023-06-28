@@ -20,6 +20,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=yunse-lee-EPITECH&show_icons=true&theme=merko&line_height=27">
 </p>
 
+<a href="https://www.linkedin.com/in/yunse-lee-180b2821b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
