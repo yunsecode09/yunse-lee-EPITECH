@@ -10,9 +10,7 @@
   <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="24">
 </p>
 - 📗 I’m currently learning at Epitech Paris<br/>
-- 💻 I like to draw, play video-games and learn new stuff<br/>
 - 📫 How to reach me: yunse1.lee@epitech.eu<br/>
-- 🎮 Fun fact: I participated in the GGJ 2022<br/>
 - 💻 Website <a href="https://profile.yunse.dev/">profile.yunse.dev<a/>:
 <p align="left">
 </p>
