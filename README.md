@@ -4,6 +4,9 @@
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=yunse-lee-EPITECH&label=Profile%20views&color=0e75b6&style=flat" alt="Yunse LEE" />
 </p>
+<p align='center'>
+  <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="24">
+</p>
 <h1 align="center">Hi 👋, I'm YUNSE</h1>
 - 📗 I’m currently learning at Epitech Paris<br/>
 - 💻 I like to draw, play video-games and learn new stuff<br/>
